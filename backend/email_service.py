@@ -35,7 +35,7 @@ EMAIL_LOGO_URL = os.environ.get("EMAIL_LOGO_URL", "")
 # Nome completo do concurso exibido no corpo do e-mail
 CONCURSO_NOME = "SEFAZ/AL 2026 - Cebraspe"
 EDITAL = "Edital nº 1 - SEFAZ/AL"
-PRAZO = "21/10/2026, às 18h00 (horário de Brasília)"
+PRAZO = "21/10/2026, às 23h59 (horário de Brasília)"
 
 # ----------------------------------------------------------------------------
 # Guardrail gate (copiado do playbook — chamar em todo envio)
